@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarum to the headquarters</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75998</idno>
+            <idno type="STC">Wing A834</idno>
+            <idno type="STC">Thomason E413_10</idno>
+            <idno type="STC">ESTC R204482</idno>
+            <idno type="EEBO-CITATION">99863972</idno>
+            <idno type="PROQUEST">99863972</idno>
+            <idno type="VID">116190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116190)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarum to the headquarters</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou: 9th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116190:1" rendition="simple:additions"/>
+            <head>AN ALARUM TO THE HEADQUARTERS.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>you of the Cabinet Counſell, wee wiſh you all Jewels to your Country, that when the work is done, that the Comonalty, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Key of the Kingdome have look<g ref="char:EOLunhyphen"/>ed at your hands, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may lock you into their own bo<g ref="char:EOLhyphen"/>ſomes and affections; where you may be ſafe, where you may be indempnified without the concurrence of any, a<g ref="char:EOLhyphen"/>gainſt all, or any that ſhall demand of you what you have done. But we pray God you do not prove thornes in the ſides, &amp; blocks in the way of thoſe that have and ſhall declare and ſtand up to their firſt ſolemne engagements, never to lay down the ſword, till they have thrown down to the ground, all oppoſitions and tyrannies whatſoever, and in whomſoever they find th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. When wee conſider how highly and hotly you have contended with that Indian Diety, the King (whom you yet own) what affronts, oppoſitions by Pen and Sword have been made againſt him, what running? What hunting after him? What meanes have been uſed, and after what a manner, to bring him on his knees (notwithſtanding you lay'd the fault on his evill Councellors) and to give him that fatall blow, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o cut off his force, power, and do<g ref="char:EOLhyphen"/>mineering greatenſſe over us, that would be free Commoners of Eng<g ref="char:EOLhyphen"/>land; whereby you might acquieſſe, and cry, victory, victory: And we had thought to have the ſound thereof runne through our ſtreets, and into our houſes; but behold the face of Warre! we hear the noiſe thereof, and ſhall truly feel the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art thereof, except yee afore hand take this Alarum, and ſtand to your guard, ſee Centinels in every quar<g ref="char:EOLhyphen"/>ter of your Army, and of the whole Kingdome, and goe out and meet it in the very face, for it comes upon you unawares, and ſweeps you a<g ref="char:EOLhyphen"/>way both root and branch. Wee had once thought that he that was faine to flee for his guilty conſcience, as being a fraid of what his whole 16. years reign of cruelty and tyranny would produce upon him if he did not betake himſelfe firſt to maintain (Vi et Armis) by force and power, what he had unjuſty, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llegally and tyrannically manopoli<g ref="char:EOLhyphen"/>zed (from the people) into his own moſt cruell and bloudy hands; which he thought to have kept, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only by right of ſucceſſion; which is as much as to ſay, by right of conqueſt, or by right of donation; which is as much as to call us fools, and ſlaves, to give away our birth<g ref="char:EOLhyphen"/>rights and inheritance, into the hands of him that ſhall uſe it againſt us:
+<pb n="2" facs="tcp:116190:2"/>but alſo to ſettle it upon himſelfe and his poſterity, by Charter and Act of his owne (if that would ſerve) ſuch was his confidence in us, King-ridden &amp; Prieſt ridden fools; we ſay, we had thought that the whole ſix<g ref="char:EOLhyphen"/>teen yeares Reigne, was declared by the Parliament, to be one continu<g ref="char:EOLhyphen"/>ed act of cruell oppreſſion and tyranny; and thereupon was by their Declarations, engagements and promiſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to aid, aſſiſt, helpe and ſtick cloſe to, to live and dye together with the Commons of England, who firſt called them forth, &amp; drew us out both in perſon and eſtates, lives and fortunes, to free our ſelves, not only from his ſaid cruelty, oppreſ<g ref="char:EOLhyphen"/>ſion and tyranny, but alſo from his inſolent inſulting Title over us, or any thing enjoyed by us and belonging to us; and therefore wee were invited, and called forth to uſe all means poſſible, not (verbis byſſ<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is) in ſilken words to court him, but by ſoule meanes, that is, by meanes of the Sword, and force of Armes to bring him down, and proc<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me him CHARLES no King, neither by the grace, or any concurrence of God, or the election of us free Commoners; defenders of his inſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lt<g ref="char:EOLhyphen"/>ing, Title of uſurping conqueſt over us, by tyranny and blood: An e<g ref="char:EOLhyphen"/>nemy to the faith, to good men, and to goodneſſe itſelfe &amp;c.</p>
+            <p>We had thought that we ſhould not need this deal of doe, this ſtriv<g ref="char:EOLhyphen"/>ing contending; and ſending again and againe to our conquered ene<g ref="char:EOLhyphen"/>my. Wee did not expect that wee ſhould have beene beholding to him, when once wee had brought him on his knees. To ſend propoſi<g ref="char:EOLhyphen"/>tions, to paſſe an act for our Indempnity, and I know not what: Is this according to the law of Arms? According to the law of conqueſt? Is this the liberty of the Commons? We pray next ſend a Propoſition, for him to paſſe for our Arrears, &amp; next for out ears, to keep them on our heads, if that be the worſt, declare, if he be not yet conquered but ſtill muſt uſurp that inſolent Right and title, to the power of a negative Voyce: Why do we thus ſit picking of ſtrawes? How dare wee then to ſend Pro<g ref="char:EOLhyphen"/>poſitions, or contend with him, for ungranted, unlicenſed priviledges; ay but he is in durance, truly ſo much the worſe: Do ye not know what word he ſent you from Holdenby? Is he in durance, and not conquered? Or if conquered, and yet muſt r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>taine that power of a negative voyce: This is childrens play! This is fine ſport indeed: If you had at firſt in<g ref="char:EOLhyphen"/>tended this, you or the Parliament, you might have told us ſo; you might have put it in one of your mellifluous Declarations, whereby yee drew us Commoners forth, and ſaid thus much; Sirs, you ſee what the King is, what he intends, no good to us, but blood and miſery; what he hath been from his firſt yeares reign to this time: you ſee now that thereupon, he being fearfull that he ſhall be called to an accompt, i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gone away; raiſed warre againſt us, to the utter ruine of us, our families and poſterities after u<g ref="char:punc">▪</g> If we do not make timely reſiſtance, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtand up <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our owne defence, and ſeek by all meanes to quell, abate, bring downe, and utterly exticipate his power and malice, for if wee doe not he will curb us to ſome purpoſe: handle us without mittinds; demand any of our perſons when he pleaſe, and for what he pleaſe; violently
+<pb n="3" facs="tcp:116190:2"/>wreſt a way our rights and eſtate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and doe w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſeemeth beſt in his owne eyes, and according to hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own malicious humour and paſſion; therefore looke to your ſelves every one of you, and betake you not only to reſiſt, but cut off his power, force &amp; greatnes, &amp; when you have conquered him, and ſubdued all your enemies, yet you muſt retain his in ſolent hetheniſh lawes, uſages &amp; cuſtoms, that he hath violently introdu<g ref="char:EOLhyphen"/>ced upon us (which if we do, he may undeniably &amp; unqueſtionably, from thoſe his own Normand lawes; ſue and recover what he had (though) forfited and loſt) yet notwithſtanding all this wee ſay and declare, that you muſt have an act of Indempnity from him, and muſt come cap in hand, and on your knees, to as<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him forgiveneſſe, and pray him to paſſe an act thereto; do you think ſuch a Declaration as this would not have reliſht and taken well with the People? I warrant you it would to ſome purpoſe, taken away their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections and ſtomocks to fight with him, who though conquered, yet muſt aſk him forgiveneſſe; you ſhould have gone hoop for Souldiers for us, and for many others too, that now have done the worke, yet ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a new one now to begin; and when it will be at an end, the wifeſt know not; except yee juggle to<g ref="char:EOLhyphen"/>gether with the King; you and the Parliament make a compact, to ſend the Propoſitions, that will eaſily downe, when he has a hood for his ſwelling ſtomacke and malice, you may be ſure they will eaſily take, when he ſees their is no other helpe for him; but wee beleeve they will prove broken Reeds, run into the ſide of thoſe that lean thereon.</p>
+            <p>Gentlemen, and dear friends, whom wee prize as the apple of our eye, who have preſerved us from the raging inſolent ſwelling waves of a prerogative negative voice, by the power of which, wee and our e<g ref="char:EOLhyphen"/>ſtates might have gone to ſtake, if you had not ſtood in the way, to curb, cut off, and throw it down to the ground.</p>
+            <p>Concious, and confident wee are of your integrity, uprightneſſe and valour, but let us tell you that the ſtanders by may often times, per<g ref="char:EOLhyphen"/>ceive more then the gamſters, not but that wee honour your wiſdomes and watchfulneſſe for our good: but ſurely all is not at it ſhould be; ſome viſer then ſome; ſome more vigerous then ſome; as ſome of you to your everlaſting honour be it ſpoken, have witneſſed of thoſe men who now appear, and ſtand up for common rights and freedome, in the Remonſtrance of the CA<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>E OF THE ARMY, truly ſta<g ref="char:EOLhyphen"/>ted by the Agents of ſive Regiments; but let not your ioyning with them, he a hinderance to their proceedings; do not goe about to un<g ref="char:EOLhyphen"/>dermine or abſtruct the worke that is begun; rouze up your ſpirits, and doe not give your ſelves u<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> nor the Kingdome, the rights <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd liber<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof, unto the ſweeping power of a negative voice, to deny the paſſing an act for our good: If this moſt ſtand, and yee yeild up this, yeil up all; make us free now for ever, or abſolute ſlaves, vil<g ref="char:EOLhyphen"/>lens and vaſſals.</p>
+            <pb n="4" facs="tcp:116190:3"/>
+            <p> What will you ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your ſelves to be? Or what will your actions in conteſting with ſuch a Prince of your owne, prove you to be, but, Rebels and Traytors, that have forfeted your lives and eſtates? What will this Army be what will the Parliament be, but a rebellious Army, a rebellious and trayterous Parliament, and accordingly ſuch ſhall be their reward? Or doe you intend to make your peace with him whom yee have overcome and brought in ſubjection, by making our liber<g ref="char:EOLhyphen"/>ties and priviledges to be of the Court faſhion, and to have the royall ſtamp? And that wee ſhall give up and reſigne the whole ware houſe of our liberties, with all the locks and keyes, into the power of a nega<g ref="char:EOLhyphen"/>tive voyce; what doe yee meane elſe by this your delatory and ſlow proceedings? What one good deed have you done, ſince your march through the City of London? Shew us if you can; the people cry none, now you have removed thoſe that were in your way, and clockt neere the City? You would make us beleeve the worke is done; and as a fore you went a King catching, now yee will goe a King courting; is this faire play? This muſt not be, you will ruine us, your ſelves and families and the whole Kingdome: Doe but you your duty, remove all op<g ref="char:EOLhyphen"/>preſſions, eaſe the Country, down with all monopolies, and tyrannous oppreſſions; draw up a Declaration fully to the People, and Remon<g ref="char:EOLhyphen"/>ſtrate that this ye will doe for them, this yee will have, this yee have fought for, this you will maintaine, live and dye, for reſolvedly: wee'le warrant you hobnailes and clouted ſhooes will give you harty thankes and help and aſſiſt you: You need not feare them, eaſe them of their oppreſſions, pitty their cries, redreſſe their grievances, and the work is done for them; for what ſay people, doe ſomthing or nothing; and if yee will not do it, tell the people ſo, if yee be faint-hearted after all your worthy, and honourable courage and valour for your Country, tell the people ſo; if it be ſo, give way, let others come in, whoſe firme reſolutions will ſtand, to engage for common right and free<g ref="char:EOLhyphen"/>dome, for liberty and for juſtice unto bloud, doe not therefore hin<g ref="char:EOLhyphen"/>der others, thoſe that now appeare, and thoſe who ſhall joyne with them, but ſuffer us to free our ſelves, and the whole commonalty of the Kingdome, from ſuch an intolerable burden and ſlavery; to ſhake and tumble downe that mountain of diſhonour and oppreſſion, that this Kingdome for ſo long time hath groaned under; which the flattery of ſucceeding times, and the ſervile ſlaviſhneſſe of our times Have attri<g ref="char:EOLhyphen"/>buted to thoſe grand uſurpers, our Kings, and their domineering pro<g ref="char:EOLhyphen"/>genitors or ſucceſſours: as though the Right, Title and power over us free Commoners, did run along in the vaines, in the loyne, and in the bloud, of our inſolent uſurpers and taſk-maſters: Is this liberty? no<g ref="char:EOLhyphen"/>thing more inſufferable to free Denizons, and to ſuch as would be ac<g ref="char:EOLhyphen"/>counted other then the progeny of Cham: Therefore wee ſay, if you doe not wholy free us from, and take him off from this his inſolent domination, and uſurpation, and degrade him and his poſterity, of that
+<pb n="5" facs="tcp:116190:3"/>pretended uſurping name, Right, power and Title, that he inſultingly laies claime to, and that he hath ſo many yeares together truly execu<g ref="char:EOLhyphen"/>ted; you ſhall find and feele, hee'l ſhake it as a Rod over your heads one day; he will cry quit with you, and recover dammages of you to ſome purpoſe: Therefore wee profeſſe ſeriouſly from our hearts; wee cannot owne you, nor your proceedings, nor ſhould never have aſſiſted you with ſo vaſt an expence of our treaſure and bloud, if you were re<g ref="char:EOLhyphen"/>ſolved to keep up this Dagon amongſt us and over us: For how can wee cordially receive or imbrace him, or any of his poſterity, that ſhall lay claime to us after ſuch a way and manner of uſurpation, and domineering? How can wee love or fight for thoſe lawes, which are impriſoned in the barbarous language of our enemies, and are ours on<g ref="char:EOLhyphen"/>ly by our enemies introduction, and are our diſgrace inſtead of ho<g ref="char:EOLhyphen"/>nour, tokens and badges of ſervile ſlavery and ſubjectedneſſe to our ex<g ref="char:EOLhyphen"/>atick, exorbitant prerogative Lords and Taſk-maſters, and as little heart have wee alſo to pray or wiſh for the ſafety and preſervation of others, more ſound and wholſome, more reaſonable, ſutable, and con<g ref="char:EOLhyphen"/>ſonant to the commonalty of England, untill that grand, and yet neg<g ref="char:EOLhyphen"/>lected grievance and oppreſſion of Normand, prerogative negative Voyce, of our uſurping Lord, be removed and wholy taken away; and what if it be pleaſed that power is alone reſiding in him to paſſe or not paſſe, to conſent: or not conſent, to the good things agreed on by the Commons, and that it is inherent in him, by vertue of ſucceſſion (that is, by a pretended right of conqueſt over us) for ſo argues the negative voyce; and all are Kings ſince the death of that perjured ba<g ref="char:EOLhyphen"/>ſtard, Duke William of Normand: r<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kon the time of their reign, not from the time of their coronation, but death of their predeceſſours, and the prerogative royall Title, is attended with a POST CON<g ref="char:EOLhyphen"/>QUESTUM, as if diſhonour, miſchiefe, oppreſſion and ſlavery, were to be invincibly entailed upon us and our poſterityes, by a law, even by this law of their own making, and forcing it upon us: Yet let me tell you, his domination over us, is not ſuch, as againſt the right &amp; equity whereof there is no pleading, yea, but there is much pleading; for firſt, conſider, (Vinci humanum eſt) no people but may be over<g ref="char:EOLhyphen"/>come, that may be born withall but (ſub virtoria aquieſſere, to lye ſnoar<g ref="char:EOLhyphen"/>ing in a captive and ſervile condition, as though wee were perpetuall ſlaves, eare-board ſlaves: Now we have after ſo vaſt an expence of bloud and treaſure regained our liberties, from of our his cruell &amp; bloud-thir<g ref="char:EOLhyphen"/>ſty cluthes, now we have conquered him; ſubdued all the viſible ene<g ref="char:EOLhyphen"/>mies in the Kingdome, and reduce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that power to it's proper center that at firſt was originally, naturally and legally inherent and reſiding in us the free Commoners of this Nation, &amp; yet not withſtanding we muſt ſtill keepe up the uſurper, and his uſurpers power and greatnes over us, and muſt be beholding to his negative Voice, pray beſeech and obſecrate for it's concurrence in an act of Indemp<g ref="char:EOLhyphen"/>nity, which is as much as to cry PECCAUI, and to come on your
+<pb n="6" facs="tcp:116190:4"/>knees to him ſo conquered, and aſk him forgiveneſſe, that he may grant and give you a pardone for what you have done, as though yee could not indemp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ify your ſelves, and ſave your ſelves harmleſſe, but muſt be beholding to the conquered, to an enemy, to one that could eate your fleſh; &amp; drink your blood to a uſurpor to indempni<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y you, wee thanke you for nothing; you have brought your hogs to a ſarre market have you not? And if he doth paſſe this Propoſition to indempnify you, and to give free and full power to the repreſentative body of the Commonalty to make Lawes, and repeale Lawes, (which he is as wil<g ref="char:EOLhyphen"/>ling to part with, as his eyes; witneſſe his ſtiffe ſtanding out ſtill) Wee are then much bound to him, are wee not? He doth but give us a pig of our owne Sow; he gives us that which wee never yet forfited or loſt, but hath been violently wreſted from us; or if wee did, wee have ſince regained it, and therefore are no longer under the pleaſure or diſple<g ref="char:EOLhyphen"/>ſure of the conquered; and therefore chooſe him whether he be wil<g ref="char:EOLhyphen"/>ling to part with it yea, or no, wee will no longer ſtand to his cour<g ref="char:EOLhyphen"/>teſie, wee have the beſt end of the Staffe, and he muſt be forced to let goe, when wee knock off his fingers: Therefore declare unto the Peo<g ref="char:EOLhyphen"/>ple, this you have gained, this you will keep.</p>
+            <p>Secondly, admit he were a conquerour of us, and that his right and Title was good by vertue of the Law of conqueſt, and conſequently by the ſame Law, he had power in him to overtop all the powers and wils of his Subjects, and to ſtop all proceedings and that what he paſſes in the affirmitive, are but acts of meer grace and favour, revokable at plea<g ref="char:EOLhyphen"/>ſure, and what he paſſeth in the negative muſt ſtand for a law, yet what is that now to us? We know him not, the caſe is altered now, there is now no pleading for that, but you are taken off, with a VICTUM EST, he is conquered and over come, and ſo ſubject unto us; and therefore our ſending Propoſitions, aſking an act of Indempnity, &amp;c. is but ſuper<g ref="char:EOLhyphen"/>fluous, more then we need do; &amp; is but an argument of our clemency and goodneſſe towards him, acts of our meere grace and favour: we had almoſt ſaid, an argument of our willing mindedneſſe to ſlavery ſtill, or of our own ſelfe-guikineſſe: And profeſſe we unto you Gentlemen, that if that Right and Title (which is but pretended and uſurped at the beſt) muſt ſtand &amp; remain in him or any of his conſanguinians<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ſo again receive him; we look to ſee our ſelves, you, and every honeſt man in the Kingdome, that is reſolved to put himſelfe in the gap, to ſtand up for common right and freedome, to fall and moulder away like durt; and he is a novice too, if he doe not in time cry quit with you, for what yee have thus many yeares together done towards him: I'le warrant you, he will thinke upon all, your carriages towards him, and bring you in ſuch a bill of Items that ſhall breake your backs, and yet no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of you be ſenſible of it, or know by whom it is done, but as you may ghueſſe: and let us deale truly with you, what can yee expect leſſe? Or how can yee gain ſay or contradict it, or in the leaſt know how to help it? Or
+<pb n="7" facs="tcp:116190:4"/>if you doe goe about to free your ſelves and the Nation, as you have already pretendedly done, what will you prove your ſelves to be, but Rebels and Traitors? And beſides what will all your Propoſitions, and his paſſing of them, availe you, if that inſolent, inſulting, uſurping Title and power that is claimed muſt ſtand? What good will his act of ob<g ref="char:EOLhyphen"/>livion? Your act of Indempnity doe you? What, ſend propoſitions to a conquerour, who dares doe it? What, to be your own carvers and chooſers, and hourly lye at the mercy of your enemy and conquerour that has the prerogative power of a negative voice? Monſtrum horren<g ref="char:EOLhyphen"/>dum. No, no, he may make you ſmart for this your boldneſs &amp; preſump<g ref="char:EOLhyphen"/>tion; be content, you are vaſſels, villen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſlaves, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bor'd ſlaves, uncapa<g ref="char:EOLhyphen"/>ble of enjoying any thing that is properly your owne, in as much as it is at the diſpoſe of your prerogative Taſk-maſter; uncapable of enjoying free-hold land, though you purchaſe never ſo much, it be<g ref="char:EOLhyphen"/>longs to your abſolute Lord, and conquerour, and his prerogative Creatures. Witneſſe, the tranſplantation of colonies in other Coun<g ref="char:EOLhyphen"/>tries.</p>
+            <p>If this uſurping power of a negative voice muſt yet ſtand (notwith<g ref="char:EOLhyphen"/>ſtanding the incapability thereof as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing conquered) what have we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fought for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll this while, and ſo hotly conteſted with him, If we muſt ſtill ſtand to his pleaſure or diſpleaſure, and ſtand or fall to his mercy, and act of grace, in paſſing in the aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmitive, or denying in the nega<g ref="char:EOLhyphen"/>tive, by this his tyrannicall prerogaive voice? Conſider into what a pre<g ref="char:EOLhyphen"/>dicament, and miſerable condition wee have caſt our ſelves; ſuch as makes us uncapable of acquiring, demanding, or aſking any thing at his hands tending to our peace, well-fare, liberties and freedomes, and for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſ-inabling us to ſtan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in our own defence, to conteſt with him, either by word <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſword, for any juſtice or freedome, or any thing elſe whatſoever, though in neereſt relations to us, for as much as wee contend with him, and ſo have, done all this while, for un-granted priviledges; things that wee have no right to, either to ſue for, aſk or demand, ſeeing that his negative voyce muſt ſtand, by ver<g ref="char:EOLhyphen"/>tue of that inſolent uſurping right and Title, that he pretends to us and over us, and wee lye at his mercy and favour, inſomuch as but for the meere and only aſking or begging of a common boon, tending to the Kingdome, to our ſelves, or families, it may paſſe in the negative, and ſo wee ſhall be checked, controuled affronted, abuſed, fined; impriſo<g ref="char:EOLhyphen"/>ned, and what not! and at laſt, have no remedy for this, or any where to goe for help; ſeeing wee aſk wee know not what, things that belong not unto us; for our ſelves and all th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t belong unto us are at the diſpo<g ref="char:EOLhyphen"/>ſing of him, and his creatures; and if he be graciouſly pleaſed ſo farre to condiſcend and demeane himſelfe, as to extend his grace and fa<g ref="char:EOLhyphen"/>vour towards us, in paſſing any propoſition for our good, it is more
+<pb n="8" facs="tcp:116190:5"/>then he needs doe, or you can acquire, and moreover this, it is re<g ref="char:EOLhyphen"/>vocable at his pleaſure, and but for durance, or gracious permittance for ſeaſon, for ſo are all acts of grace that proceed from the prerogative power of a negative voice; which things ſhould have been aboundantly proved: but that this was intended chiefly for an Allarum, to awa<g ref="char:EOLhyphen"/>ken the drowſie ſpirits of you, and thoſe that ly<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſnoaring under the overtoping, inſolent, ſwelling, and overgrown uſurping power of a negative Voice, and therefore in a word, never talke of getting honour in re<g ref="char:EOLhyphen"/>gaining your and our Countries libertyes, except yee firſt unconquer your ſelves. a word to the intelligent man is ſufficient.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
